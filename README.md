@@ -1,6 +1,8 @@
 # Ma Landing Page
 
-      Et pour ça, vous décidez vous créer une belle landing page. Une page toute simple, sur laquelle on aurait quelque chose comme :
+Vous avez envie de vous faire plaisir ❤️
+
+Et pour ça, vous décidez vous créer une belle landing page. Une page toute simple, sur laquelle on aurait quelque chose comme :
 
 ```
            BONJOUR
