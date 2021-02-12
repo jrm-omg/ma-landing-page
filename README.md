@@ -44,5 +44,5 @@ Cette landing est administrable. C'est à dire qu'il est possible de se connecte
 
 Parfois la création d'une seule page “vitrine” administrable suffit à satisfaire la demande d'un client. Un développeur se doit d'être capable de produire ce type de contenu tout en respectant les étapes de production.
 
-## Un album 
-[Back To Mine (Orbital)](https://www.youtube.com/watch?v=kfV4yzp33G8&list=PLe7WzoIuUUIrgZIt_csnmBOWwcDK-lbXX)
+## Album pour coder
+[Le Ambient Mix d'Odd Nosdam](https://www.youtube.com/watch?v=t3WeS72cyyw)
