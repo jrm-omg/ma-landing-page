@@ -1,6 +1,6 @@
 # Ma Landing Page
 
-Vous avez envie de vous faire plaisir. Et pour ça, vous décidez vous créer une belle landing page. Une page toute simple, sur laquelle on aurait quelque chose comme :
+      Et pour ça, vous décidez vous créer une belle landing page. Une page toute simple, sur laquelle on aurait quelque chose comme :
 
 ```
            BONJOUR
@@ -43,4 +43,4 @@ Cette landing est administrable. C'est à dire qu'il est possible de se connecte
 Parfois la création d'une seule page “vitrine” administrable suffit à satisfaire la demande d'un client. Un développeur se doit d'être capable de produire ce type de contenu tout en respectant les étapes de production.
 
 ## Un album 
-[Brother's Gonna Work It Out](https://www.youtube.com/watch?v=cTPJIC-Nxak)
+[Back To Mine (Orbital)](https://www.youtube.com/watch?v=kfV4yzp33G8&list=PLe7WzoIuUUIrgZIt_csnmBOWwcDK-lbXX)
