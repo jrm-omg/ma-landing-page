@@ -16,13 +16,16 @@ Développeur full stack junior
 ## Votre mission
 
 Cette landing est administrable. C'est à dire qu'il est possible de se connecter à un admin qui permet de :
-
 - changer la phrase d'intro (BONJOUR/Moi, c'est Capucine/Développeur full stack junior)
 - changer la couleur de fond de la page
 - changer la couleur du texte de la page
 - créer / éditer / supprimer un lien (exemple de lien : Git, Linkedin, Twitter, Facebook, Snap, Insta, Email, etc)
 - changer le `<title>` de la page
 - changer le `<meta name="description">` de la page
+
+Au final, le but de l'opération c'est :
+- que les visiteurs atterrissent sur la page d'accueil de la landing page
+- que l'administrateur, vous, puissiez éditer les variables de cette landing page, sans coder, via une interface d'admin
 
 ## Modalités pédagogiques
 
